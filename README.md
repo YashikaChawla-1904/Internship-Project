@@ -1,2 +1,2 @@
 # Internship-Project
-DevelopedaPython-basedwebsiteforAI-poweredresumerankingandcandidatescreening
+Developed a Python-based website for AI-powered resume ranking and candidate screening...
